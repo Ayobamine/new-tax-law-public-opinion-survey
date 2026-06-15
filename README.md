@@ -37,7 +37,7 @@ Approximately 63% of Nigerians reported being aware of the proposed tax policy, 
 
 ### 2. <h3>Main Sources of Information<h3>
 
-![New Tax Law png1 <img width="1280" height="720" alt="New Tax Law png1" src="https://github.com/user-attachments/assets/6bd012bf-e42a-4dd8-b874-3cf8303749aa" /> 
+New Tax Law png1 <img width="1280" height="720" alt="New Tax Law png1" src="https://github.com/user-attachments/assets/6bd012bf-e42a-4dd8-b874-3cf8303749aa" /> 
 rmation](images/tax_information_sources.png)
 
 Social media emerged as the leading source of information about the tax policy, followed by television/radio and information obtained through family, friends, and colleagues.
