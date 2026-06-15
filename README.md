@@ -29,7 +29,7 @@ As a Data Analyst and Research Specialist, I was responsible for:
 
 ### 1. Awareness of the New Tax Policy
 
-![Tax_awareness.png <img width="1280" height="720" alt="New Tax Law" src="https://github.com/user-attachments/assets/7830be6b-8bcd-40b6-a17e-962593b764d2" />
+![Tax_awareness.png <img width="1280" height="720" alt="New Tax Law" src="https://github.com/user-attachments/assets/7830be6b-8bcd-40b6-a17e-962593b764d2" /> 
  New <img width="1280" height="720" alt="Presentation3" src="https://github.com/user-attachments/assets/92f05785-6ece-43f5-a7b2-0257436b2adb" />
  Tax Policy](images/tax_awareness.png)
 
